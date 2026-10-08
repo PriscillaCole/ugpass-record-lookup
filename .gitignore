@@ -1,0 +1,14 @@
+node_modules/
+records.json
+progress.json*
+UGPASS-results.csv*
+*.csv
+*.xlsx
+*.xls
+*.zip
+.env*
+!.env.example
+*credentials*
+*password*
+playwright-report/
+test-results/
